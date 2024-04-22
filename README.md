@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Jismon P</h1>
-- 🔭 I’m currently working on **Deepfake Detection using Multimodal Deep Learning**
+- 🔭 I’m currently working on Deepfake Detection using Multimodal Deep Learning
 
 - 🌱 I’m currently learning **Typescript and Playwright**
 
